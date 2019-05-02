@@ -1,2 +1,1 @@
-# tsvilt
-site4tsvilt
+python -m pip install -U --force-reinstall pip
